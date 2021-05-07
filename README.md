@@ -1,2 +1,2 @@
 # CelebFaces
-Dataset CelebFaces downloaded from Kaggle: 
+Dataset CelebFaces downloaded from Kaggle for experiments.
